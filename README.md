@@ -4,5 +4,5 @@ Kashyyyk Hotel
 This is the amazing hotel.
 
 
-This is made by 
+Made by:
 Ziggy Rawlings, Sam Harvey and laith takriti.
