@@ -1,7 +1,7 @@
 # Delta-Lodgement
 Kashyyyk Hotel
 
-This is the amazing hotel.
+This is the amazing hotel(code).
 
 
 Made by:
