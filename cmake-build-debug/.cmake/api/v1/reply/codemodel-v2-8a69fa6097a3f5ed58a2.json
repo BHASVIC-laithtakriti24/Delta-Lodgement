@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Delta_Lodgement_Kashyyyk_Hotel",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Delta_Lodgement_Kashyyyk_Hotel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Delta_Lodgement_Kashyyyk_Hotel-Debug-4e4bb21043b505705c52.json",
+					"name" : "Delta_Lodgement_Kashyyyk_Hotel",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/laith.takriti24/project/Delta-Lodgement-Kashyyyk_Hotel/cmake-build-debug",
+		"source" : "C:/Users/laith.takriti24/project/Delta-Lodgement-Kashyyyk_Hotel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
