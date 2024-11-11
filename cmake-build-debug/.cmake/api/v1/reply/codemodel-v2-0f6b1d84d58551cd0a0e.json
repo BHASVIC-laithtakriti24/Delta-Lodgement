@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/laith.takriti24/project/Delta-Lodgement-Kashyyyk_Hotel/cmake-build-debug",
-		"source" : "C:/Users/laith.takriti24/project/Delta-Lodgement-Kashyyyk_Hotel"
+		"build" : "C:/Users/laith/Project/Delta-Lodgement-Kashyyyk_Hotel/cmake-build-debug",
+		"source" : "C:/Users/laith/Project/Delta-Lodgement-Kashyyyk_Hotel"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 7
 	}
 }
